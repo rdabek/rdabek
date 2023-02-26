@@ -5,3 +5,6 @@ This page contains some information about who I am and what I am doing / interes
 - 👀 I’m interested in learning in general
 - :closed_book: I’m currently studying physics and computer science. I am learning mathematics as a hobby too.
 - 📫 How to reach me: currently there is no way.
+## Credits
+Profile Icon:
+<a href="https://www.flaticon.com/free-icons/owl" title="owl icons">Owl icons created by justicon - Flaticon</a>
